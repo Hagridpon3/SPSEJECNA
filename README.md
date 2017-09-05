@@ -1,2 +1,2 @@
 # SPSEJECNA
-My student book from SEP
+My student book from SPSE Jecna
